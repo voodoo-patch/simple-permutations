@@ -1,0 +1,12 @@
+{
+    "settings": {
+        "files.exclude": {
+            "**/.js": true
+        }
+    },
+    "folders": [
+        {
+            "path": "."
+        }
+    ]
+}
